@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "../../site1"
+	},
+	{
+		"path": "../../block inline-block"
+	},
+	{
+		"path": "../../block inline-block2"
+	},
+	{
+		"path": "../../selectors"
+	}
+],
+  "settings": {}
+}
